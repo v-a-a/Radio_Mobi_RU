@@ -109,37 +109,37 @@
 
 
     <!--    Sharing messages-->
-<string name="station_is_not_available">Requested station is not available</string>
-<string name="not_valid_station">This is not a valid station request</string>
-<string name="share_song">Share Song</string>
-<string name="share_station">Share Station</string>
-<string name="now_listening_station_subject">"Now I\'m listening %s"</string>
-<string name="now_listening_station_detail">Now I\'m listening %s radio station on %s. %s%d</string>
-<string name="now_listening_song_subject">"Now I\'m listening %s"</string>
-<string name="now_listening_song_detail">Now I\'m listening %s playing on %s radio station. %s%d</string>
+<string name="station_is_not_available">Запрошенная станция недоступна</string>
+<string name="not_valid_station">Неверный запрос</string>
+<string name="share_song">Поделиться песней</string>
+<string name="share_station">Поделиться станцией</string>
+<string name="now_listening_station_subject">"Сейчас я слушаю %s"</string>
+<string name="now_listening_station_detail">Сейчас я слушаю %s радиостанцию на %s. %s%d</string>
+<string name="now_listening_song_subject">"Сейчас я слушаю %s"</string>
+<string name="now_listening_song_detail">Сейчас я слушаю %s играет на %s радио станции. %s%d</string>
 
-<string name="recommend_radiomobi_subject">Radio Mobi - Listen +80.000 online radio stations for free</string>
-<string name="recommend_radiomobi_message">Hello, I\'m using Radio Mobi. The coolest way to listen more than 80.000 online radio stations. Download it for free:</string>
+<string name="recommend_radiomobi_subject">Радио Mobi - Слушай более 80.000 онлайн радио станций бесплатно</string>
+<string name="recommend_radiomobi_message">Привет, я использую Радио Mobi. Крутейший способ слушать более 80.000 онлайн радио станций. Качай бесплатно:</string>
 
 
     <!--    Update Messages-->
-<string name="update">Update</string>
-<string name="rate">Rate</string>
-<string name="maybe_later">Maybe Later</string>
-<string name="no_thanks">No, thanks</string>
-<string name="checking_station_updates">Checking station updates.</string>
-<string name="updating_station_list">Updating station list… Please wait for a few seconds.</string>
-<string name="update_progress_info">This is just a one time thing.</string>
-<string name="update_completed">Update completed. Preparing stations…</string>
-<string name="latest_stations_retrieved">Latest stations retrieved. Starting…</string>
-<string name="stating_to_update">Starting to update…</string>
-<string name="stations_are_up_to_date">Your stations are up-to-date. Starting…</string>
-<string name="station_are_not_up_to_date">Your stations are not up-to-date.</string>
-<string name="preparing_for_first_run">Preparing for first run.\nNext start-ups will be ultra FAST!!!</string>
-<string name="please_wait_for_a_few_seconds">Please wait for a few seconds.</string>
-<string name="optimizing_radio_database">Optimizing radio database.\nPlease wait…</string>
-<string name="all_internet_radio_stations">All Internet Radio Stations</string>
-<string name="starting">Starting…</string>
+<string name="update">Обновить</string>
+<string name="rate">Оценить</string>
+<string name="maybe_later">Возможно, позже</string>
+<string name="no_thanks">Нет, спасибо</string>
+<string name="checking_station_updates">Проверка обновлений станции.</string>
+<string name="updating_station_list">Обновление списка станций… Пожалуйста подождите несколько секунд.</string>
+<string name="update_progress_info">Это единоразовое действие.</string>
+<string name="update_completed">Обновление завершено. Подготовка станций…</string>
+<string name="latest_stations_retrieved">Новейшие станции добавлены. Запуск…</string>
+<string name="stating_to_update">Запущено обновление…</string>
+<string name="stations_are_up_to_date">Ваши станции обновлены. Запуск…</string>
+<string name="station_are_not_up_to_date">Ваши станции не обновлены.</string>
+<string name="preparing_for_first_run">Подготовка к первому запуску.\nПоследующие запуски будут СУПЕР быстрыми!!!</string>
+<string name="please_wait_for_a_few_seconds">Пожалуйста, подождите несколько секунд.</string>
+<string name="optimizing_radio_database">Оптимизация базы радиостанций.\nПожалуйста, подождите…</string>
+<string name="all_internet_radio_stations">Все интернет радио станции</string>
+<string name="starting">Запуск…</string>
 
 
 
