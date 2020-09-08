@@ -1,45 +1,45 @@
-<string name="play">Play</string>
-<string name="pause">Pause</string>
-<string name="playPause">Play / Pause</string>
-<string name="previous_station">Previous</string>
-<string name="next_station">Next</string>
+<string name="play">Включить</string>
+<string name="pause">Пауза</string>
+<string name="playPause">Включить / Пауза</string>
+<string name="previous_station">Предыдущая</string>
+<string name="next_station">Следующая</string>
 
 
-<string name="search">Search…</string>
-<string name="search_country_">Search country…</string>
-<string name="search_country">Search Country</string>
-<string name="search_tag">Search Tag</string>
-<string name="search_in">"Search in "</string>
-<string name="search_in_all_tags">Search in all tags…</string>
-<string name="search_station">Search Station</string>
-<string name="search_song">Search Song / Lyrics</string>
-<string name="search_song_video">Search Song Videos</string>
-<string name="search_hint">Search station, language, country, city, tags, bitrate…</string>
+<string name="search">Искать…</string>
+<string name="search_country_">Искать страну…</string>
+<string name="search_country">Искать страну</string>
+<string name="search_tag">Искать тег</string>
+<string name="search_in">"Искать в "</string>
+<string name="search_in_all_tags">Искать по всем тегам…</string>
+<string name="search_station">Искать радиостанцию</string>
+<string name="search_song">Искать песню / Lyrics</string>
+<string name="search_song_video">Искать видео песни</string>
+<string name="search_hint">Искать станцию, язык, страну, город, теги, качество…</string>
 
 
-<string name="Songs">Songs</string>
-<string name="Song">Song</string>
-<string name="songs">songs</string>
-<string name="song">song</string>
+<string name="Songs">Песни</string>
+<string name="Song">Песня</string>
+<string name="songs">песни</string>
+<string name="song">песня</string>
 
 
-<string name="all_stations">ALL STATIONS</string>
-<string name="Station">Station</string>
-<string name="stations">stations</string>
-<string name="station">station</string>
-<string name="station_homepage">Station Homepage</string>
+<string name="all_stations">ВСЕ РАДИОСТАНЦИИ</string>
+<string name="Station">Радиостанция</string>
+<string name="stations">радиостанции</string>
+<string name="station">радиостанция</string>
+<string name="station_homepage">Домашняя страница радиостанции</string>
 
 
     <!--    Sleep Timer Messages-->
-<string name="sleep_timer">Sleep Timer</string>
-<string name="set">Set</string>
-<string name="dismiss">Dismiss</string>
-<string name="remaining_time">"Remaining Time : "</string>
-<string name="stop_playing_after">Stop Playing After</string>
-<string name="playback_stopped_by_sleep_timer">Playback stopped by the sleep timer</string>
-<string name="sleep_timer_dismissed_by_user">Sleep timer dismissed by the user</string>
-<string name="sleep_timer_set">Sleep timer set</string>
-<string name="sleep_timer_updated">Sleep timer updated</string>
+<string name="sleep_timer">Таймер выключения</string>
+<string name="set">Установить</string>
+<string name="dismiss">Отключить</string>
+<string name="remaining_time">"Оставшееся время : "</string>
+<string name="stop_playing_after">Выключить через</string>
+<string name="playback_stopped_by_sleep_timer">Воспроизведение остановлено таймером выключения</string>
+<string name="sleep_timer_dismissed_by_user">Таймер выключения отключен пользователем</string>
+<string name="sleep_timer_set">Установка таймера выключения</string>
+<string name="sleep_timer_updated">Таймер выключения обновлён</string>
 
 
 <string name="ok">OK</string>
