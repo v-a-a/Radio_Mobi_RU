@@ -77,35 +77,35 @@
 <string name="dont_show_again">Не показыавть больше</string>
 
     <!--    Battery Optimization-->
-<string name="battery_optimization">Battery Optimization</string>
-<string name="battery_optimization_is_enabled">Disable battery optimization not to experience playback interruptions. Touch for settings.</string>
-<string name="you_will_be_redirected_to_the_battery_optimization_page">You will be redirected to the battery optimization page.
-Choose Radio Mobi from All Apps list and disable battery optimization.</string>
+<string name="battery_optimization">Оптимизация энергопотребления</string>
+<string name="battery_optimization_is_enabled">Отключить оптимизацию батареи для беспрерывного воспроизведения. Нажмите для настройки.</string>
+<string name="you_will_be_redirected_to_the_battery_optimization_page">Вы будете перенаправлены на страницу оптимизации энергопотребления.
+Выберите Radio Mobi из списка всех приложений и отключите оптимизацию энергопотребления.</string>
 
 
     <!--    History-->
-<string name="history">History</string>
-<string name="history_">HISTORY</string>
-<string name="station_history">Recently Listened Stations</string>
-<string name="song_history">Recently Played Songs</string>
-<string name="remove_from_history">Remove From History</string>
-<string name="removed_from_history">" removed from history"</string>
-<string name="clear_history">Clear List</string>
+<string name="history">История</string>
+<string name="history_">ИСТОРИЯ</string>
+<string name="station_history">Недавние станции</string>
+<string name="song_history">Недавние песни</string>
+<string name="remove_from_history">Удалить из истории</string>
+<string name="removed_from_history">" удалено из истории"</string>
+<string name="clear_history">Очистить список</string>
 
 
     <!--    Favorites-->
-<string name="favorites">Favorites</string>
-<string name="favorites_">FAVORITES</string>
-<string name="add_to_favorites">Add To Favorites</string>
-<string name="added_to_favorites">" added to favorites"</string>
-<string name="add_song_to_favorites">Add Song To Favorites</string>
-<string name="song_added_to_favorites">Song added to favorites</string>
-<string name="station_added_to_favorites">Station added to favorites</string>
-<string name="remove_from_favorites">Remove From Favorites</string>
-<string name="removed_from_favorites">" removed from favorites"</string>
-<string name="my_favorite_stations">My Favorite Stations</string>
-<string name="my_favorite_songs">My Favorite Songs</string>
-<string name="clear_favorites">Clear List</string>
+<string name="favorites">Избранное</string>
+<string name="favorites_">ИЗБРАННОЕ</string>
+<string name="add_to_favorites">Добавить в избранное</string>
+<string name="added_to_favorites">" добавлено в избранное"</string>
+<string name="add_song_to_favorites">Добавить песню в избранное</string>
+<string name="song_added_to_favorites">Песня добавлена в избранное</string>
+<string name="station_added_to_favorites">Станция добавлена в избранное</string>
+<string name="remove_from_favorites">Удалить из избранного</string>
+<string name="removed_from_favorites">" удалено из избранного"</string>
+<string name="my_favorite_stations">Мои избранные станции</string>
+<string name="my_favorite_songs">Мои избранные песни</string>
+<string name="clear_favorites">Очистить список</string>
 
 
     <!--    Sharing messages-->
