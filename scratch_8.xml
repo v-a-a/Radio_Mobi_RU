@@ -24,9 +24,9 @@
 
 
 <string name="all_stations">ВСЕ СТАНЦИИ</string>
-<string name="Station">Станция</string>
-<string name="stations">Станции</string>
-<string name="station">станция</string>
+<string name="Station">Радиостанция</string>
+<string name="stations">Радиостанции</string>
+<string name="station">радиостанция</string>
 <string name="station_homepage">Домашняя страница станции</string>
 
 
@@ -100,7 +100,7 @@
 <string name="added_to_favorites">" добавлено в избранное"</string>
 <string name="add_song_to_favorites">Добавить песню в избранное</string>
 <string name="song_added_to_favorites">Песня добавлена в избранное</string>
-<string name="station_added_to_favorites">Станция добавлена в избранное</string>
+<string name="station_added_to_favorites">Радиостанция добавлена в избранное</string>
 <string name="remove_from_favorites">Удалить из избранного</string>
 <string name="removed_from_favorites">" удалено из избранного"</string>
 <string name="my_favorite_stations">Мои избранные станции</string>
@@ -109,7 +109,7 @@
 
 
     <!--    Sharing messages-->
-<string name="station_is_not_available">Запрошенная станция недоступна</string>
+<string name="station_is_not_available">Запрошенная радиостанция недоступна</string>
 <string name="not_valid_station">Неверный запрос</string>
 <string name="share_song">Поделиться песней</string>
 <string name="share_station">Поделиться станцией</string>
@@ -145,26 +145,26 @@
 
 
     <!--    Network Errors-->
-<string name="check_your_network_settings">Please check your network settings and try again.</string>
-<string name="connection_failed">Connection failed.</string>
-<string name="you_are_offline_dot">You are offline.</string>
-<string name="check_your_internet_connection">Please check your internet connection</string>
-<string name="radio_db_server_connection_error">Can not connect to radio database server.</string>
-<string name="station_is_not_responding">Station is not responding or not available in your country</string>
-<string name="skipped_to_next_station">Station is not responding, skipped to next</string>
-<string name="station_is_removed">Station seems to be removed from the main database. Please use search for alternate link.</string>
+<string name="check_your_network_settings">Пожалуйста, проверьте ваше интернет-соединение и попробуйте снова.</string>
+<string name="connection_failed">Ошибка подключения.</string>
+<string name="you_are_offline_dot">Вы в оффлайн режиме.</string>
+<string name="check_your_internet_connection">Пожалуйста, проверьте ваше интернет-соединение</string>
+<string name="radio_db_server_connection_error">Невозможно подключиться к серверу базы данных радио.</string>
+<string name="station_is_not_responding">Радиостанция не отвечает или недоступна в вашей стране</string>
+<string name="skipped_to_next_station">Радиостанция не отвечает, переключение на следующую</string>
+<string name="station_is_removed">Похоже, радиостанция была удалена из базы данных. Пожалуйста, возпользуйтесь поиском для нахождения станции.</string>
     <!--    <string name="station_is_not_responding">The stream seems to be unavailable at this time.</string>-->
-<string name="station_temporarily_unavailable">Station temporarily unavailable</string>
-<string name="station_failed">Station failed</string>
-<string name="volley_connection_timeout">Connection timed out</string>
-<string name="volley_network_error">Please check your network settings</string>
-<string name="volley_generic_error">An error occurred</string>
-<string name="cant_open_the_requested_link">Can\'t open the requested link</string>
-<string name="can_not_get_new_stations">Can\'t get new stations</string>
+<string name="station_temporarily_unavailable">Радиостанция временно недоступна</string>
+<string name="station_failed">Ошибка радиостанции</string>
+<string name="volley_connection_timeout">Таймаут подключения</string>
+<string name="volley_network_error">Пожалуйста, проверьте настройки вашего интернет-соединения</string>
+<string name="volley_generic_error">Произошла ошибка</string>
+<string name="cant_open_the_requested_link">Невозможно открыть запрошенную ссылку</string>
+<string name="can_not_get_new_stations">Невозможно добавить новую радиостанцию</string>
 
 
-<string name="connecting">Connecting…</string>
-<string name="buffering">Buffering…</string>
+<string name="connecting">Подключение…</string>
+<string name="buffering">Буфферизация…</string>
 
 
     <!--    Settings Screen-->
