@@ -238,47 +238,47 @@
 
     <!--    Purchase-->
 <string name="thank_you_for_your_order">Спасибо за ваш заказ!</string>
-<string name="no_more_visual_ads_enjoy_it">No more visual ads. Enjoy it!</string>
-<string name="remove_visual_ads">Remove Visual Ads</string>
-<string name="order_ad_free_version">Order ad-free version now and remove visual ads on all of your devices! Help us develop the app.</string>
-<string name="order_now">Order Now</string>
-<string name="go_ad_free">Go Ad-Free</string>
-<string name="something_went_wrong_please_try_again_later">Something went wrong! Please try again later.</string>
-<string name="something_went_wrong">Something went wrong!</string>
-<string name="pending_purchase">Your purchase is in pending state. Please wait for a few minutes.</string>
+<string name="no_more_visual_ads_enjoy_it">Больше никакой рекламы. Наслаждайтесь!</string>
+<string name="remove_visual_ads">Убрать рекламу</string>
+<string name="order_ad_free_version">Закажите премиум версию и уберите рекламу на всех ваших устройствах! Помогите нам развивать приложение.</string>
+<string name="order_now">Заказать сейчас</string>
+<string name="go_ad_free">Получить премиум</string>
+<string name="something_went_wrong_please_try_again_later">Что-то пошло не так! Пожалуйста, попробуйте снова позже.</string>
+<string name="something_went_wrong">Что-то пошло не так!</string>
+<string name="pending_purchase">Ваша оплата обрабатывается. Пожалуйста, подождите несколько минут.</string>
 
 
     <!--    Troubleshoot-->
-<string name="troubleshoot">Troubleshoot</string>
-<string name="disable_battery_optimization">Disable Battery Optimization</string>
-<string name="disable_battery_optimization_detail">If you experience playback interruptions,         especially when the screen is off, it may be due to battery saver of your device.         Please select Radio Mobi from the app list and disable battery optimization. This will prevent your device to stop Radio Mobi.         Tap here to go to settings page.</string>
+<string name="troubleshoot">Устранение проблем</string>
+<string name="disable_battery_optimization">Отключить режим оптимизации энергопотребления</string>
+<string name="disable_battery_optimization_detail">Если возникают прерывания и задержки при воспроизведении,         особенно при выключенном экране, это может быть связано с режим энергосбережения на вашем устройстве.         Выберите Radio Mobi из списка всех приложений и отключите оптимизацию энергопотребления. Это предотвратит остановку Радио Mobi вашим устройством.         Нажмите сюда для перехода на страницу настроек.</string>
 
 
     <!--Confirm Dialog-->
-<string name="new_stations_available">New Stations Available</string>
-<string name="would_you_like_to_update_station_list">Would you like to update stations?</string>
+<string name="new_stations_available">Доступна новая радиостанция</string>
+<string name="would_you_like_to_update_station_list">Вы хотети обновить список радиостанций?</string>
 
 
     <!--Accessibility Descriptions-->
-<string name="station_favicon">Station logo</string>
-<string name="share_station_button">Share station button</string>
-<string name="sleep_timer_button">Sleep timer button</string>
-<string name="play_station_button">Play station button</string>
-<string name="add_to_favorites_button">Add to favorites button</string>
-<string name="add_station_to_favorites_button">Add station to favorites button</string>
-<string name="add_song_to_favorites_button">Add song to favorites button</string>
-<string name="open_station_homepage_button">Open station homepage button</string>
-<string name="search_song_button">Search song button</string>
-<string name="share_song_button">Share song button</string>
-<string name="station_menu_button">Station menu button</string>
-<string name="country_flag">Country flag</string>
-<string name="cover_image">Cover image</string>
-<string name="previous_button">Previous station button</string>
-<string name="play_pause_button">Play pause button</string>
-<string name="next_button">Next button</string>
-<string name="application_logo">Application logo</string>
-<string name="reorder_favorite_handle">Reorder favorite handle</string>
-<string name="navigation_back_button">Navigation back button</string>
-<string name="menu_button">Menu button</string>
-<string name="tab_icon">Tab icon</string>
-<string name="advertiser_icon">Advertiser Icon</string>
+<string name="station_favicon">Логотип радиостанции</string>
+<string name="share_station_button">Кнопка "Поделиться радостанцией"</string>
+<string name="sleep_timer_button">Кнопка таймера отключения</string>
+<string name="play_station_button">Кнопка включения радиостанции</string>
+<string name="add_to_favorites_button">Кнопка добавления в избранное</string>
+<string name="add_station_to_favorites_button">Кнопка добавления радиостанции в избранное</string>
+<string name="add_song_to_favorites_button">Кнопка добавления песни в избранное</string>
+<string name="open_station_homepage_button">Кнопка открытия домашней страницы радиостанции</string>
+<string name="search_song_button">Кнопка поиска песни</string>
+<string name="share_song_button">Кнопка "Поделиться песней"</string>
+<string name="station_menu_button">Кнопка меню радиостанции</string>
+<string name="country_flag">Флаг страны</string>
+<string name="cover_image">Обложка</string>
+<string name="previous_button">Кнопка предыдущей радостанции</string>
+<string name="play_pause_button">Кнопка включения/паузы</string>
+<string name="next_button">Кнопка следующей радостанции</string>
+<string name="application_logo">Логотип приложения</string>
+<string name="reorder_favorite_handle">Переключатель иерархии избранного</string>
+<string name="navigation_back_button">Кнопка Назад</string>
+<string name="menu_button">Кнопка Меню</string>
+<string name="tab_icon">Иконка закладки</string>
+<string name="advertiser_icon">Иконка рекламодателя</string>
