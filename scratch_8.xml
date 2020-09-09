@@ -152,7 +152,7 @@
 <string name="radio_db_server_connection_error">Невозможно подключиться к серверу базы данных радио.</string>
 <string name="station_is_not_responding">Радиостанция не отвечает или недоступна в вашей стране</string>
 <string name="skipped_to_next_station">Радиостанция не отвечает, переключение на следующую</string>
-<string name="station_is_removed">Похоже, радиостанция была удалена из базы данных. Пожалуйста, возпользуйтесь поиском для нахождения станции.</string>
+<string name="station_is_removed">Похоже, радиостанция была удалена из базы. Пожалуйста, возпользуйтесь поиском для нахождения станции.</string>
     <!--    <string name="station_is_not_responding">The stream seems to be unavailable at this time.</string>-->
 <string name="station_temporarily_unavailable">Радиостанция временно недоступна</string>
 <string name="station_failed">Ошибка радиостанции</string>
@@ -168,75 +168,76 @@
 
 
     <!--    Settings Screen-->
-<string name="user_interface">User Interface</string>
-<string name="theme">Theme</string>
-<string name="use_dark_theme">Use dark theme</string>
-<string name="switches_between_white_and_dark_themes"><![CDATA[Switch between light & dark themes]]></string>
-<string name="full_screen">Full screen</string>
-<string name="show_favorites_tab">Show favorites tab</string>
-<string name="show_history_tab">Show history tab</string>
+<string name="user_interface">Интерфейс</string>
+<string name="theme">Тема</string>
+<string name="use_dark_theme">Использовать тёмную тему</string>
+<string name="switches_between_white_and_dark_themes">Переключение между светлой и тёмной темами<![CDATA[Switch between light & dark themes]]></string>
+<string name="full_screen">Во весь экран</string>
+<string name="show_favorites_tab">Показывать вкладку "Избранное"</string>
+<string name="show_history_tab">Показывать вкладку "История"</string>
 <string name="hide_nav_bar_and_status_bar"><![CDATA[Hide navigation & status bar]]></string>
-<string name="hide_toolbar">Auto-hide toolbar</string>
-<string name="hide_toolbar_desc">Automatically hide / show toolbar while user swiping the screen</string>
-<string name="hide_player">Auto-hide player</string>
-<string name="hide_player_desc">Automatically hide / show mini player while user swiping the screen</string>
-<string name="language">Interface Language</string>
+<string name="hide_toolbar">Автоскрытие панели инструментов</string>
+<string name="hide_toolbar_desc">Автоматически скрывать / показывать панель инструментов во время пролистывания</string>
+<string name="hide_player">Автоматически скрывать плеер</string>
+<string name="hide_player_desc">Автоматически скрывать / показывать мини-плеер во время пролистывания</string>
+<string name="language">Язык интерфейса</string>
 
-<string name="language_prompt">Choose a language</string>
+<string name="language_prompt">Выберите язык</string>
 
 <string-array name="interface_language">
-<item>Use System Language</item>
+<item>Использовать язык по-умолчанию</item>
 <item>English</item>
 <item>Français</item>
 <item>Türkçe</item>
+<item>Русский</item>
 </string-array>
 
 
-<string name="sound">Sound</string>
-<string name="volume_down_on_notification">Volume down on notification</string>
-<string name="decreases_radio_volume">Decrease radio volume during the notifications of other applications. (eg. message sounds, etc.)</string>
-<string name="fade_out_on_pause">Fade-out on pause</string>
-<string name="fades_out_radio_volume_before_pause">Fade out radio volume before pause</string>
-<string name="stop_on_headset_unplugged">Stop on headset / bluetooth disconnection</string>
-<string name="stop_playback_when_the_headset_unplugged">Stop playback when the headset unplugged or bluetooth device disconnected</string>
-<string name="playback_stoppped_because_the_headset_unplugged">Playback stopped because the headset unplugged or bluetooth device disconnected</string>
+<string name="sound">Звук</string>
+<string name="volume_down_on_notification">Уменьшать громкость при уведомлениях</string>
+<string name="decreases_radio_volume">Снижать громкость воспроизведения при получении уведомлений от сторонних приложений. (мессенджеры и т.д.)</string>
+<string name="fade_out_on_pause">Затухание при паузе</string>
+<string name="fades_out_radio_volume_before_pause">Затухание громкости воспроизведение перед паузой</string>
+<string name="stop_on_headset_unplugged">Останавливать при отключении гарнитуры</string>
+<string name="stop_playback_when_the_headset_unplugged">Останавливать воспроизведние при отсоединении или отключении bluetooth-соединения гарнитуры</string>
+<string name="playback_stoppped_because_the_headset_unplugged">Воспроизведение остановлено из-за отсоединения или отключения bluetooth-соединения гарнитуры</string>
 
 
-<string name="network">Network</string>
-<string name="skip_to_next">Auto-skip to the next station</string>
-<string name="skip_to_next_station">Skip to next when the station is not responding</string>
-<string name="show_album_art_when_available">Show album art when available</string>
-<string name="searches_playing_song">Search currently playing song\'s album cover and shows the most relevant result if found</string>
-<string name="applying_new_configuration">Applying New Configuration</string>
-<string name="buffer_size">Buffer Size</string>
-<string name="slide_to_the_left_right">Slide to the left for faster playback startup. If you experience interruption slide to the right.</string>
+<string name="network">Сеть</string>
+<string name="skip_to_next">Автоматически переключать на следующую радиостанцию</string>
+<string name="skip_to_next_station">Переключать на следующую радиостанцию, если текущая не отвечает</string>
+<string name="show_album_art_when_available">Показывать обложку альбома, когда доступно</string>
+<string name="searches_playing_song">Искать обложку альбома текущей песни и показывать наиболее подходящий результат поиска</string>
+<string name="applying_new_configuration">Применение новых настроек</string>
+<string name="buffer_size">Размер буффера</string>
+<string name="slide_to_the_left_right">Переключите влево для более быстрого старта воспроизведения. Если возникают прерывания и задержки, преключите вправо.</string>
 
-<string name="terms_of_service">Terms of Service</string>
-<string name="privacy_policy">Privacy Policy</string>
-<string name="licenses">Licenses</string>
-<string name="application_version">Application Version</string>
-<string name="station_database">Station Database</string>
+<string name="terms_of_service">Условия использования</string>
+<string name="privacy_policy">Политика конфиденциальности</string>
+<string name="licenses">Лицензии</string>
+<string name="application_version">Версия приложения</string>
+<string name="station_database">База радиостанций</string>
 
-<string name="support_us">Support Us</string>
-<string name="recommend_radiomobi">Recommend Radio Mobi</string>
-<string name="rate_radiomobi">Rate Radio Mobi</string>
-<string name="contact_us">Contact Us</string>
+<string name="support_us">Поддержать нас</string>
+<string name="recommend_radiomobi">Рекомендовать Радио Mobi</string>
+<string name="rate_radiomobi">Оценить Radio Mobi</string>
+<string name="contact_us">Связаться с нами</string>
 
 
     <!--    Rating-->
-<string name="leave_us_a_5_star">Leave us a 5-star review if you enjoy using Radio Mobi!</string>
-<string name="rate_us">Rate Us</string>
-<string name="your_support_is_very_important">Your support is very important for us. If you like Radio Mobi, please take a few seconds to recommend us to your friends and rate us.  Thank you for your support.</string>
-<string name="recommend_to_your_friends">If you like Radio Mobi you can support us by recommending to your friends. Tap here to recommend.</string>
-<string name="how_about_giving_us_a_5_star_rating">How about giving us a 5-star rating? Tap here.</string>
-<string name="review">Review</string>
-<string name="rating">Rating</string>
-<string name="please_leave_us_a_review">To improve Radio Mobi, please send us a review.</string>
-<string name="thank_you">Thank You!</string>
+<string name="leave_us_a_5_star">Поставьте нам 5 звёзд, если вам нравится пользоваться Радио Mobi!</string>
+<string name="rate_us">Оцените нас</string>
+<string name="your_support_is_very_important">Ваша поддержка очень важна для нас. Если вам нравится Радио Mobi, пожалуйста уделите несколько секунд, чтобы порекомендовать нас вашим друзьям и поставить оценку.  Thank you for your support.</string>
+<string name="recommend_to_your_friends">Если вам нравится Радио  Mobi, вы можете поддержать нас, порекомендовав нас вашим друзьям. Нажмите сюда, чтобы порекомендовать.</string>
+<string name="how_about_giving_us_a_5_star_rating">Как насчёт того, чтобы поставить нам 5 звёзд? Нажмите сюда.</string>
+<string name="review">Отзыв</string>
+<string name="rating">Рейтинг</string>
+<string name="please_leave_us_a_review">Для улучшения Радио Mobi, пожалуйста, отправьте нам отзыв.</string>
+<string name="thank_you">Спасибо!</string>
 
 
     <!--    Purchase-->
-<string name="thank_you_for_your_order">Thank you for your order!</string>
+<string name="thank_you_for_your_order">Спасибо за ваш заказ!</string>
 <string name="no_more_visual_ads_enjoy_it">No more visual ads. Enjoy it!</string>
 <string name="remove_visual_ads">Remove Visual Ads</string>
 <string name="order_ad_free_version">Order ad-free version now and remove visual ads on all of your devices! Help us develop the app.</string>
